@@ -1,3 +1,6 @@
+/** Filter
+ * @version 1.0.
+ */
 package filters;
 
 import javax.servlet.*;
